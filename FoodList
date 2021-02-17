@@ -1,0 +1,94 @@
+{
+  foodList : [
+    { 
+      id: 0,
+      name: "Pizza", 
+      calories: 266,
+      description: "Pizza is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven." 
+    },
+    { 
+      id: 1,
+      name: "Pasta", 
+      calories: 131,
+      description: "Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking." 
+    },
+    { 
+      id: 2,
+      name: "Burger", 
+      calories: 295,
+      description: "A hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled." 
+    },
+    { 
+      id: 3,
+      name: "Soup", 
+      calories: 62,
+      description: "Soup is a primarily liquid food, generally served warm or hot that is made by combining ingredients of meat or vegetables with stock, or water." 
+    },
+    { 
+      id: 4,
+      name: "Salad", 
+      calories: 235,
+      description: "A cold dish of various mixtures of raw or cooked vegetables, usually seasoned with oil, vinegar, or other dressing and sometimes accompanied by meat, fish, or other ingredients." 
+    },
+    { 
+      id: 5,
+      name: "Bread", 
+      calories: 265,
+      description: "Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history, it has been a prominent food in large parts of the world." 
+    },
+    { 
+      id: 6,
+      name: "Rice", 
+      calories: 130,
+      description: "Rice is the seed of the grass species Oryza sativa or less commonly Oryza glaberrima. As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa." 
+    },
+    { 
+      id: 7,
+      name: "Eggs", 
+      calories: 155,
+      description: "A food product produced from poultry that is used as both an ingredient and a main dish for baked foods. Eggs have a hard shell of calcium carbonate enclosing a liquid white, a single yolk (or an occasional double yolk)and an air cell." 
+    },
+    { 
+      id: 8,
+      name: "Pie", 
+      calories: 237,
+      description: "A pie is a baked dish which is usually made of a pastry dough casing that contains a filling of various sweet or savoury ingredients. Sweet pies may be filled with fruit, nuts, brown sugar or sweetened vegetables." 
+    },
+    { 
+      id: 9,
+      name: "Bagel", 
+      calories: 250,
+      description: "A bagel, also historically spelled beigel, is a bread product originating in the Jewish communities of Poland. It is traditionally shaped by hand into the form of a ring from yeasted wheat dough, roughly hand-sized, that is first boiled for a short time in water and then baked." 
+    },
+    { 
+      id: 10,
+      name: "Hot Dog", 
+      calories: 290,
+      description: "A hot dog is a food consisting of a grilled or steamed sausage served in the slit of a partially sliced bun. It can also refer to the sausage itself." 
+    },
+    { 
+      id: 11,
+      name: "Taco", 
+      calories: 226,
+      description: "A taco is a traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling. The tortilla is then folded around the filling and eaten by hand." 
+    },
+    { 
+      id: 12,
+      name: "Sushi", 
+      calories: 225,
+      description: "Sushi is a traditional Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, often raw, and vegetables." 
+    },
+    { 
+      id: 13,
+      name: "Poutine", 
+      calories: 513,
+      description: "Poutine is a dish of french fries and cheese curds topped with a brown gravy. It emerged in Quebec, Canada, in the late 1950s in the Centre-du-Québec region." 
+    },
+    { 
+      id: 14,
+      name: "Ice Cream", 
+      calories: 207,
+      description: "Ice cream is a sweetened frozen food typically eaten as a snack or dessert. It may be made from dairy milk or cream and is flavoured with a sweetener, either sugar or an alternative, and any spice, such as cocoa or vanilla." 
+    }
+  ] 
+}
